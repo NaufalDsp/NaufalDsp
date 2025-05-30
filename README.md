@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm Naufal Dwi Saputro
 
-🎓 I'm an Informatics Engineering student at  Sebelas Maret University
+🎓 I'm an Informatics Engineering student at Sebelas Maret University  
 💡 Passionate about **Web Development, and Frontend Development**  
-🚀 Currently learning and building real-world projects through internships and bootcamps  
+🚀 Currently learning and building real-world projects through internships and bootcamps 
 
 ---
 
