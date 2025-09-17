@@ -2,7 +2,6 @@
 
 🎓 A Informatics Engineering student from **Sebelas Maret University**  
 💡 I love building things for the web — focusing on **Frontend Development** 
-🚀 Always exploring new technologies and gaining hands-on experience through internships & real-world projects
 
 ---
 
