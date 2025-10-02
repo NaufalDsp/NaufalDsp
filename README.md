@@ -29,9 +29,7 @@
 
 ## 📊 GitHub Stats
 
-![Naufal's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaufalDsp&show_icons=true&count_private=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalDsp&layout=compact&count_private=true&theme=tokyonight)
+![Naufal's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaufalDsp&show_icons=true&count_private=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalDsp&layout=compact&count_private=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=NaufalDsp&theme=tokyonight&hide_border=true)
 
