@@ -14,8 +14,6 @@
 
 ## ⚙️ My Tech Toolbox
 
-Here are some technologies and tools I’ve been working with recently:
-
 ![HTML5](https://img.shields.io/badge/HTML5-E44D26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?logo=javascript&logoColor=black)
@@ -29,3 +27,15 @@ Here are some technologies and tools I’ve been working with recently:
 ---
 
 📌 *“I code with creativity and learn with curiosity.”*
+
+---
+
+## 📊 GitHub Stats
+
+![Naufal's GitHub stats](https://github-readme-stats.vercel.app/api?username=naufalsaputro&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalsaputro&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=naufalsaputro&theme=tokyonight&hide_border=true)
+
+![Naufal's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=naufalsaputro&theme=tokyo-night&color=00BFFF&line=1E90FF&point=1E90FF&area=true&hide_border=true)
