@@ -31,3 +31,5 @@
 
 ![Naufal's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaufalDsp&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalDsp&layout=compact&count_private=true&theme=tokyonight)
 ![Naufal's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NaufalDsp&theme=tokyo-night&color=00BFFF&line=1E90FF&point=1E90FF&area=true&hide_border=true)
+## 🏆 GitHub Achievements
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=NaufalDsp&theme=onedark)
