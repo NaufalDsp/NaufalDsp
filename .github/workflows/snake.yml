@@ -17,6 +17,9 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate contribution snake animation SVG
         uses: Platane/snk/svg-only@v3
         with:
@@ -32,4 +35,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
